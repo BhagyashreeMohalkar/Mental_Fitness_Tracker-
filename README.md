@@ -37,7 +37,10 @@ This project analyzes mental health and substance use disorder data across count
 ## Installation
 
   - Clone the repository:
-  - ``` bash
+   ``` bash
    git clone https://github.com/BhagyashreeMohalkar/mental-fitness-tracker.git
    cd mental-fitness-tracker  
+```
+
+
 
