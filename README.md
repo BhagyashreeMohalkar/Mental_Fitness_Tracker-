@@ -1,6 +1,6 @@
 # 🧠 Mental Fitness Tracker using Machine Learning
 
-This project analyzes mental health and substance use disorder data across countries and years to predict **mental fitness levels** using machine learning models. Built as part of the IBM Internship Projects, the system uses **Linear Regression** and **Random Forest Regressor** to understand and forecast mental health trends.
+This project analyzes mental health and substance use disorder data across countries and years to predict **mental fitness levels** using machine learning models. The system uses **Linear Regression** and **Random Forest Regressor** to understand and forecast mental health trends.
 
 ---
 
