@@ -139,6 +139,6 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 ## 👩‍💻 Author
 
 **Bhagyashree Mohalkar**   
-🌐 [GitHub](https://github.com/BhagyashreeMohalkar) | [LinkedIn](https://www.linkedin.com/in/bhagyashree-mohalkar)
+🌐 [GitHub](https://github.com/BhagyashreeMohalkar) | [LinkedIn](https://www.linkedin.com/in/bhagyashree-mohalkar-1b6861287/)
 
 > *Empowering insights into mental health through data and AI.* 🌍💡
